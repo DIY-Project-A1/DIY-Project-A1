@@ -1,4 +1,4 @@
-Ensure that the computer has NodeJS installed.
+Ensure that the computer has NodeJS and expo installed.
 
 Then copy all files from the repository to a folder.
 
