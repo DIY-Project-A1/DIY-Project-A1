@@ -1,4 +1,4 @@
-Ensure that the computer has NodeJS and expo installed.
+Ensure that the computer has NodeJS, React Native and Expo installed.
 
 Then copy all files from the repository to a folder.
 
